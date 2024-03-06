@@ -48,7 +48,7 @@ def txt():
     pen.down() 
   
     # Set the text color to lightgreen 
-    pen.color('black') 
+    pen.color('pink') 
   
     # Write the specified text in  
     # specified font style and size 
