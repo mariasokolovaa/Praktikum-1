@@ -49,9 +49,6 @@ def txt():
   
     # Set the text color to lightgreen 
     pen.color('pink') 
-  
-    # Write the specified text in  
-    # specified font style and size 
     pen.write("GeeksForGeeks", font=( 
       "Verdana", 12, "bold")) 
   
