@@ -38,7 +38,7 @@ def heart():
 	pen.end_fill() 
 def txt(): 
   
-    # Move turtle to air 
+     
     pen.up() 
   
     # Move turtle to a given position 
