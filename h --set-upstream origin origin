@@ -1,0 +1,41 @@
+[33mcommit 32196e004815af6a1df3674b5dfaa322b637f5ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32morigin[m[33m, [m[1;31morigin/origin[m[33m, [m[1;31morigin/new_project1[m[33m)[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Thu Mar 7 15:08:47 2024 +0300
+
+    Usless comments was removed
+
+[33mcommit e6a0f7ed6002c0eb77b6078b08619746fed07bf2[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Thu Mar 7 15:02:35 2024 +0300
+
+    Message from new branch - user1
+
+[33mcommit 9cff2fb235536296c51385a77f4b767f79a84940[m[33m ([m[1;31morigin/new_project[m[33m)[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Thu Mar 7 14:58:25 2024 +0300
+
+    Message from new branch
+
+[33mcommit 9bbea253b9d7825e26e0799c7b12144e59ae1cf7[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mvetka[m[33m, [m[1;32mproject[m[33m, [m[1;32mmaster[m[33m, [m[1;32mf407a1f2b608b308dec94918626b0d8f024e70d0[m[33m, [m[1;32m9bbea253b9d7825e26e0799c7b12144e59ae1cf7[m[33m)[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Wed Mar 6 19:13:22 2024 +0300
+
+    The color was chaged
+
+[33mcommit ebc90f1b77371ccab18f8e17450af6aa42eb4ff5[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Wed Mar 6 19:11:04 2024 +0300
+
+    The comments was added
+
+[33mcommit 132d8e4b86978ef4b413d1a00b8ae97fe08b1a46[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Wed Mar 6 19:00:50 2024 +0300
+
+    File heart.py was modified
+
+[33mcommit f407a1f2b608b308dec94918626b0d8f024e70d0[m
+Author: Maria <mariasokolova2004@gmail.com>
+Date:   Wed Mar 6 18:54:58 2024 +0300
+
+    File heart.py was added
